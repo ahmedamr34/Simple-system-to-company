@@ -1,0 +1,60 @@
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.deps.json
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.deps.json
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.deps.json
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfo.cs
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.deps.json
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.deps.json
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll

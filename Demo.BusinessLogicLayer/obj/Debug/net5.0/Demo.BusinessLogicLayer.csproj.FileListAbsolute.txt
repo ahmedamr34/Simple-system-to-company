@@ -1,0 +1,75 @@
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.deps.json
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfo.cs
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CopyComplete
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Back-End\mm\07 ASP.NET MVC\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.deps.json
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfo.cs
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CopyComplete
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Back-End\mm\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.deps.json
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+C:\Users\HP\Downloads\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.deps.json
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfo.cs
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CopyComplete
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\000000\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.deps.json
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfo.cs
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CopyComplete
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\mvc true\2.Project(MVC)\Demo-Seluotion\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll
